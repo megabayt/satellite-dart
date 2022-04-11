@@ -36,7 +36,7 @@ import 'package:satellite_dart/interfaces/local_date.dart';
  *  coupling      :
  *    none.
  * --------------------------------------------------------------------------- */
-LocalDate days2mdhms(int year, int days) {
+LocalDate days2mdhms(num year, num days) {
   final lmonth = [
     31,
     (year % 4) == 0 ? 29 : 28,
@@ -144,9 +144,8 @@ double? jday(dynamic year,
       day != null &&
       hr != null &&
       minute != null &&
-      sec != null &&
-      msec != null) {
-    return _jdayInternal(year as int, mon, day, hr, minute, sec, msec);
+      sec != null) {
+    return _jdayInternal(year as int, mon, day, hr, minute, sec, msec ?? 0);
   }
   return null;
 }

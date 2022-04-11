@@ -26,7 +26,7 @@ import 'package:satellite_dart/ext.dart';
  *  references    :
  *    vallado       2004, 191, eq 3-45
  * --------------------------------------------------------------------------- */
-double gstimeInternal(int jdut1) {
+double gstimeInternal(num jdut1) {
   final tut1 = (jdut1 - 2451545.0) / 36525.0;
 
   var temp = (-6.2e-6 * tut1 * tut1 * tut1) +
