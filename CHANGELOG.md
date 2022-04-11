@@ -9,3 +9,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Added
 
 - Dart port of satellite-js library https://github.com/shashwatak/satellite-js
+
+## [1.0.1] - 2020-12-01
+
+### Removed
+
+- Remove Vector interface

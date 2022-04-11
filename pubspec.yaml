@@ -2,7 +2,7 @@ name: satellite_dart
 description: Dart port of satellite-js library https://github.com/shashwatak/satellite-js
 repository: https://github.com/megabayt/satellite-dart
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
