@@ -1,11 +1,9 @@
-# satellite.js
-
-[![NPM version](https://img.shields.io/npm/v/satellite.js.svg)](https://www.npmjs.com/package/satellite.js)
-[![Downloads/month](https://img.shields.io/npm/dm/satellite.js.svg)](https://www.npmjs.com/package/satellite.js)
-[![Build Status](https://img.shields.io/travis/shashwatak/satellite-js/develop.svg)](https://travis-ci.org/shashwatak/satellite-js)
-[![Coverage Status](https://img.shields.io/coveralls/github/shashwatak/satellite-js/develop.svg)](https://coveralls.io/github/shashwatak/satellite-js?branch=develop)
-[![Gitter chat](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/satellite-js/Lobby)
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE.md)
+# satellite-dart
+[![Pub Version](https://img.shields.io/pub/v/satellite_dart?logo=dart&logoColor=white)](https://pub.dev/packages/satellite_dart/)
+[![Dart SDK Version](https://badgen.net/pub/sdk-version/satellite_dart)](https://pub.dev/packages/satellite_dart/)
+[![License](https://img.shields.io/github/license/megabayt/satellite_dart)](https://raw.githubusercontent.com/megabayt/satellite-dart/develop/LICENSE)
+[![Pub popularity](https://badgen.net/pub/popularity/satellite_dart)](https://pub.dev/packages/satellite_dart/score)
+[![GitHub popularity](https://img.shields.io/github/stars/megabayt/satellite_dart?logo=github&logoColor=white)](https://github.com/megabayt/satellite_dart/stargazers)
 
 ## Introduction
 
