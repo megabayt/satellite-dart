@@ -51,7 +51,7 @@ double? gstime(dynamic yearOrDate,
     if (jdayVal == null) {
       return null;
     }
-    return gstimeInternal(jdayVal.toInt());
+    return gstimeInternal(jdayVal);
   }
   return gstimeInternal(yearOrDate);
 }
